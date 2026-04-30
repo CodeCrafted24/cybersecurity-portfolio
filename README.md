@@ -9,4 +9,4 @@ I am currently learning the basics of cybersecurity, networking, and ethical hac
 
 This section contains my TryHackMe learning progress:
 
-- [Module 1 – Introduction to Cyber Security](tryhackme-writeups/module-1.md)
+- [Module 1 – Introduction to Cyber Security](pre-security-intro-cybersecurity.md)
